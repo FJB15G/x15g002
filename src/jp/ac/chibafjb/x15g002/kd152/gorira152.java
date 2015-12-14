@@ -12,7 +12,7 @@ public class gorira152 {
 		double i = 3.14;
 		System.out.println("円周 = "+2*i*a);
 		System.out.println("面積 = "+i*a*a);
-		float a = sin.nextFloat();
+		
 	}
 
 }
